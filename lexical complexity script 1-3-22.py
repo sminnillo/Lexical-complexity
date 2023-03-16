@@ -4,6 +4,10 @@
 Created on Tue Jan  3 16:43:05 2023
 
 @author: sophiaminnillo
+
+Author: Sophia Minnillo
+Copyright 2023
+Distributed under terms of GNU General Public License v3
 """
 
 #Hello! My name is Sophia Minnillo, and I am a PhD student in Linguistics at UC Davis in the US.
